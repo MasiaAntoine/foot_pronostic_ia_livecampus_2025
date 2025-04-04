@@ -5,7 +5,7 @@ Une application Streamlit pour prédire les résultats des matchs de football de
 ## 🔗 Application en ligne
 
 Essayez l'application directement dans votre navigateur:
-[https://blank-app-0usz19xzsyoo.streamlit.app/](https://blank-app-0usz19xzsyoo.streamlit.app/)
+[Streamlit](https://footpronosticialivecampus2025-lqq9hhuadg4fgduqqmvd75.streamlit.app/)
 
 ## 🛠️ Options et fonctionnalités
 
